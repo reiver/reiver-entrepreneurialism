@@ -10,4 +10,4 @@ wiki/1
 • [[financial-projections]]
 • [[lite-paper]]
 • [[pitch-deck]]
-• [[start-up]]
+• [[start-up-venture]]
