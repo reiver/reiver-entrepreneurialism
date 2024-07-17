@@ -1,0 +1,33 @@
+wiki/1
+
+§ Pitch Deck
+
+⸺ by Charles Iliya Krempeaux
+
+A **pitch-deck** is a presentation tool used to pitch a [[start-up-venture]], a product, a service, or anything else (that is being pitched).
+
+It is often either a series of slides, or an essay, or some combination.
+
+Typically, the person pitching is going to [[tell-a-story]] (or stories), but show the **pitch-deck** while they are telling that story.
+
+The **pitch-deck** can help guide the story being told, and also gives the audience something interesting to look at while the pitch has happened.
+
+**Pitch-Decks** are common with [[entrepreneurialism]].
+
+§§ Structure
+
+There are different ways one can structure a **pitch-deck**.
+
+And the exact structure of a **pitch-deck** should help tell the story.
+
+But this is one way one //could// structure a **pitch-deck**:
+
+• purpose
+• problem
+• solution
+• why now
+• market potential
+• alternatives
+• business model
+• team
+• vision
