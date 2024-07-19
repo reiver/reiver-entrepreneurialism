@@ -4,6 +4,8 @@ wiki/1
 
 ⸺ by Charles Iliya Krempeaux
 
+**Entrepreneurialism** is usually about trying to create companies, products, or services.
+
 §§ See Also
 
 • [[product-demo]]
